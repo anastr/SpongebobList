@@ -7,9 +7,9 @@ you can use this list for children Applications or for Games... you know.
 Library Size ~ 220 Kb.
 
 [![API](https://img.shields.io/badge/API-+11-red.svg?style=flat)](#)
-[![Bintray](https://img.shields.io/bintray/v/anastr/maven/SpeedView.svg)](https://bintray.com/anastr/maven/SpongebobList)
+[![Bintray](https://img.shields.io/bintray/v/anastr/maven/SpongebobList.svg)](https://bintray.com/anastr/maven/SpongebobList)
 
-<img src="/images/spongebob_list.gif" width="30%" />
+<img src="/images/spongebob_list.gif" width="40%" />
 
 ### Requirement
 * SDK build-tools 24 , download it from SDK Manager.
