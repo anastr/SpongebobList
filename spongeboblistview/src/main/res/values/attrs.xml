@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SpongebobList">
+        <attr name="spongebob_width" format="dimension" />
+        <attr name="hand_width" format="dimension" />
+        <attr name="scroll_line_width" format="dimension" />
+        <attr name="scroll_line_color" format="color" />
+    </declare-styleable>
+</resources>

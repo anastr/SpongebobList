@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/bubbles_background"
+    tools:context="com.github.anastr.spongeboblist.MainActivity">
+
+    <com.github.anastr.spongeboblistview.SpongebobList
+        android:id="@+id/spongebob_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:spongebob_width="80dp"
+        app:hand_width="7dp"
+        app:scroll_line_width="6dp"
+        app:scroll_line_color="#b2fb00ff"/>
+</RelativeLayout>
