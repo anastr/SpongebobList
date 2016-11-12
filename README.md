@@ -1,6 +1,6 @@
 # SpongebobList
 Fun RecyclerView with Spongebob character, Spongebob move his Hand and Eyes as ScrollBar for Android.<br>
-you can use this list for children Applications or for Games... you know.
+you can use this list for kids Applications or for Games... you know.
 
 `minSdkVersion=11`
 
@@ -59,7 +59,7 @@ spongeList.getRecyclerView().setAdapter(yourAdapter);
 ```
 
 # Attributes :
-<br>
+
 ======================
 Name | Function
 --- | ---
